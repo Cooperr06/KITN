@@ -1,3 +1,3 @@
 # KITN
 
-Meine API zu dem Spiel "Knight In The Night", welches noch nicht fertig ist. Dies ist nur eine API, das Spiel ist WIP!
+This my API for my game "Knight In The Night" (short "KITN"), it is not finished yet (WIP). This is only the API! The game is still in progress.
