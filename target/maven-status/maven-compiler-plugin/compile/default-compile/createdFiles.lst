@@ -1,0 +1,16 @@
+entity\data\EntityType.class
+item\ItemStack.class
+util\Location.class
+inventory\PlayerInventory.class
+command\CommandExecutor.class
+inventory\Inventory.class
+entity\data\LivingEntity.class
+command\Command.class
+item\data\Enchantment$Type.class
+entity\Entity.class
+item\Material.class
+item\data\Enchantment.class
+entity\data\FacingDirection.class
+util\Color.class
+entity\Player.class
+util\CommandManager.class

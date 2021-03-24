@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KitN">
+    <output-path>$PROJECT_DIR$/out/artifacts/KitN</output-path>
+    <root id="archive" name="KitN.jar">
+      <element id="module-output" name="Knight in the night" />
+    </root>
+  </artifact>
+</component>
