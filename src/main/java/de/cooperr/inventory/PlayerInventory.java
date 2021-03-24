@@ -1,8 +1,8 @@
-package inventory;
+package de.cooperr.inventory;
 
-import entity.Player;
-import entity.data.LivingEntity;
-import item.ItemStack;
+import de.cooperr.entity.Player;
+import de.cooperr.entity.data.LivingEntity;
+import de.cooperr.item.ItemStack;
 import jdk.jfr.Label;
 
 public class PlayerInventory extends Inventory {

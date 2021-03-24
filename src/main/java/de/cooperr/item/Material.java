@@ -1,4 +1,4 @@
-package item;
+package de.cooperr.item;
 
 public enum Material {
 

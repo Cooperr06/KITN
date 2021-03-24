@@ -1,8 +1,8 @@
-package util;
+package de.cooperr.util;
 
-import command.CommandExecutor;
-import command.CommandExecutor;
-import entity.Player;
+import de.cooperr.command.Command;
+import de.cooperr.command.CommandExecutor;
+import de.cooperr.entity.Player;
 
 import java.util.ArrayList;
 import java.util.HashMap;

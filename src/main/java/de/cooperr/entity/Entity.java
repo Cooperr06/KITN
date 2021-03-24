@@ -1,7 +1,7 @@
-package entity;
+package de.cooperr.entity;
 
-import entity.data.EntityType;
-import util.Location;
+import de.cooperr.entity.data.EntityType;
+import de.cooperr.util.Location;
 
 public class Entity {
 

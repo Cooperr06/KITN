@@ -1,6 +1,6 @@
-package command;
+package de.cooperr.command;
 
-import entity.Player;
+import de.cooperr.entity.Player;
 
 public interface CommandExecutor {
 

@@ -1,4 +1,4 @@
-package entity.data;
+package de.cooperr.entity.data;
 
 public enum EntityType {
 

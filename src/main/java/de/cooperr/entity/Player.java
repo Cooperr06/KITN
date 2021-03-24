@@ -1,12 +1,12 @@
-package entity;
+package de.cooperr.entity;
 
-import entity.data.EntityType;
-import entity.data.FacingDirection;
-import entity.data.LivingEntity;
-import inventory.Inventory;
-import inventory.PlayerInventory;
+import de.cooperr.entity.data.EntityType;
+import de.cooperr.entity.data.FacingDirection;
+import de.cooperr.entity.data.LivingEntity;
+import de.cooperr.inventory.Inventory;
+import de.cooperr.inventory.PlayerInventory;
+import de.cooperr.util.Location;
 import jdk.jfr.Label;
-import util.Location;
 
 import java.util.UUID;
 

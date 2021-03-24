@@ -1,4 +1,4 @@
-package util;
+package de.cooperr.util;
 
 public class Color {
 

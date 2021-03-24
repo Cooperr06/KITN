@@ -1,6 +1,6 @@
-package item;
+package de.cooperr.item;
 
-import item.data.Enchantment;
+import de.cooperr.item.data.Enchantment;
 
 import java.util.ArrayList;
 import java.util.List;

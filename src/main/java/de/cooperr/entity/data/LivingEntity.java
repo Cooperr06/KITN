@@ -1,6 +1,6 @@
-package entity.data;
+package de.cooperr.entity.data;
 
-import inventory.Inventory;
+import de.cooperr.inventory.Inventory;
 
 public interface LivingEntity {
 

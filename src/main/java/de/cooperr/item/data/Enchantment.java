@@ -1,4 +1,4 @@
-package item.data;
+package de.cooperr.item.data;
 
 public class Enchantment {
 

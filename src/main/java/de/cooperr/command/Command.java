@@ -1,4 +1,4 @@
-package command;
+package de.cooperr.command;
 
 public class Command {
 

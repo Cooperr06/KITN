@@ -1,7 +1,7 @@
-package inventory;
+package de.cooperr.inventory;
 
-import entity.data.LivingEntity;
-import item.ItemStack;
+import de.cooperr.entity.data.LivingEntity;
+import de.cooperr.item.ItemStack;
 
 import java.util.HashMap;
 
